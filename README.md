@@ -140,7 +140,7 @@ karma: {
 
 ## Future Todos
 There are a few pieces currently missing that I would like to have implemented into the project. Currently the list is:
-- Implement possibility to choose your own Source structures. Currently only { src: <SOURCE> } is supported, but I would like to support custom structures in a non-confusing way.
+- It is currently possibile to choose your own Source structures, but this can be confusing. I would like a more user friendly way of doing this. 
 - Implement RequireJs support
 
 ## Contributing
