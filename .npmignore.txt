@@ -1,0 +1,5 @@
+.npmignore
+.editorconfig
+.travis.yml
+.gitattributes
+contributing.md

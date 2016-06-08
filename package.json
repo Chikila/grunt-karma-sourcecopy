@@ -1,0 +1,11 @@
+{
+	"name": "grunt-karma-sourcescopy",
+	"version": "v0.1",
+	"private": false,
+	"description": "Grunt-karma-sourcescopy moves sources from a HTML file into the gruntfile for karma tests.",
+	"repository": {
+		"type": "git",
+		"url": "http://git.todo"
+	},
+	"author": "lixody"
+}
